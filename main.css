@@ -6,6 +6,8 @@ img.centered {display: block; margin: auto; width: 40%;}
 
 .justified {text-align: justify;}
 
+.swcblue {color: #20267E}
+
 p {font-family: Lato; text-rendering: optimizeLegibility;}
 
 h1 {font-family: Lato; font-weight: normal; font-style: normal; text-rendering: optimizeLegibility;}
